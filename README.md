@@ -1,6 +1,6 @@
-# HealthTick Calendar
+# HealthTick's Calendar
 
-A modern, real-time calendar booking system specifically designed for health coaches. This application delivers an intuitive single-day view for seamless appointment management, featuring a clean UI and robust backend infrastructure powered by Firebase.
+A professional calendar booking solution created for health coaches. This platform features an easy-to-use daily view that streamlines appointment scheduling, enhanced by a polished interface and dependable Firebase infrastructure.
 
 **Deployed Link**: `https://health-tick-mu.vercel.app/`
 
@@ -23,8 +23,6 @@ A modern, real-time calendar booking system specifically designed for health coa
     *   Modern, cohesive color palette with professional styling.
     *   Custom-designed scrollbar for a clean, minimalist aesthetic.
     *   Fully responsive design optimized for both desktop and mobile devices.
-*   **User Feedback System**: Integrated Sonner toast notifications provide clear success and error messaging.
-
 ---
 
 ## Future Enhancements
@@ -99,13 +97,10 @@ The application utilizes two primary Firestore collections for data management:
 ---
 
 ## Getting Started
-
-Follow these steps to set up and run the project locally:
-
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <your-repositoryURL>
 cd <repository-folder>
 ```
 
