@@ -2,7 +2,7 @@
 
 A modern, real-time calendar booking system designed for health coaches. This application provides an intuitive single-day view for managing appointments, with a clean UI and robust backend logic powered by Firebase.
 
-Deployed Link: ``
+Deployed Link: `https://health-tick-mu.vercel.app/`
 
 ---
 
