@@ -23,17 +23,6 @@ A professional calendar booking solution created for health coaches. This platfo
     *   Modern, cohesive color palette with professional styling.
     *   Custom-designed scrollbar for a clean, minimalist aesthetic.
     *   Fully responsive design optimized for both desktop and mobile devices.
----
-
-## Future Enhancements
-
-This project establishes a solid foundation with exciting potential for expansion. Planned future features include:
-
-*   **Edit Bookings**: Enable modification of existing appointments with full validation.
-*   **Recurring Series Management**: Add optional end dates for recurring follow-up calls to automatically terminate series.
-*   **Coach Dashboard**: Comprehensive calendar management interface for registered coaches.
-*   **Email Notifications**: Automated confirmation emails for both coaches and clients when bookings are created or cancelled.
-*   **Multi-Coach Support**: Extend the system to support multiple coaches with individual calendars.
 
 ---
 
